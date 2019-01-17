@@ -87,32 +87,16 @@
 		35D6467721F0C4050097E615 /* LHAppBackgroundBlurManager */ = {
 			isa = PBXGroup;
 			children = (
-				35D6467D21F0C4E20097E615 /* Tools */,
-				35D6467C21F0C4D60097E615 /* category */,
-				35D6467921F0C46C0097E615 /* LHAppBackgroundBlurManager.h */,
-				35D6467A21F0C46C0097E615 /* LHAppBackgroundBlurManager.m */,
-			);
-			path = LHAppBackgroundBlurManager;
-			sourceTree = "<group>";
-		};
-		35D6467C21F0C4D60097E615 /* category */ = {
-			isa = PBXGroup;
-			children = (
+				35D6468421F0C5B70097E615 /* LHUserPreferencesManager.h */,
+				35D6468521F0C5B70097E615 /* LHUserPreferencesManager.m */,
 				35D6467E21F0C51C0097E615 /* UIImage+snapShot.h */,
 				35D6467F21F0C51C0097E615 /* UIImage+snapShot.m */,
 				35D6468121F0C5750097E615 /* NSString+appInfo.h */,
 				35D6468221F0C5750097E615 /* NSString+appInfo.m */,
+				35D6467921F0C46C0097E615 /* LHAppBackgroundBlurManager.h */,
+				35D6467A21F0C46C0097E615 /* LHAppBackgroundBlurManager.m */,
 			);
-			path = category;
-			sourceTree = "<group>";
-		};
-		35D6467D21F0C4E20097E615 /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-				35D6468421F0C5B70097E615 /* LHUserPreferencesManager.h */,
-				35D6468521F0C5B70097E615 /* LHUserPreferencesManager.m */,
-			);
-			path = Tools;
+			path = LHAppBackgroundBlurManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
