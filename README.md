@@ -1,5 +1,5 @@
 # LHAppBackgrondBlurManager
-一行代码搞定应用后模糊功能！
+一行代码搞定应用后模糊功能！(QQ交流群:576217833,学习的来，非诚勿扰！！！！)
 
 
 # LHAppBackgrondBlurManager
