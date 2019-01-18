@@ -18,6 +18,8 @@
 步骤三、调用或者显示模糊界面的方法
  ![image](https://github.com/KingLiuHui/LHAppBackgrondBlurManager/blob/master/15.png)
 
+效果图
+ ![image](https://github.com/KingLiuHui/LHAppBackgrondBlurManager/blob/master/123.gif)
 
 
 至此，你已经集成完了本框架，快去你的工程查看吧
