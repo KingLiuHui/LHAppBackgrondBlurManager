@@ -23,3 +23,5 @@
 
 
 至此，你已经集成完了本框架，快去你的工程查看吧
+
+如果你还不会发布自己的开源框架，请参考我的另一篇文章:https://github.com/KingLiuHui/My_OC_Books/blob/master/fa-bu-zi-ji-de-kai-yuan-kuang-jia.md
